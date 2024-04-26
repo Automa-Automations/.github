@@ -1,3 +1,6 @@
+
+![Banner Base](https://github.com/Automa-Automations/.github/assets/122154257/b1933428-b151-4117-8549-8f357af3bf72)
+
 # Automa - Extremely Simple Automation
 🤖 Automa is a project that focuses on making AI & AI automation available to the general public at a low-low cost of 10$ for the base hosted plan, or 0$ for self hosting all of our infrastructure.
 
