@@ -14,4 +14,4 @@ We are open to any collaborations. Specifically, we are looking for a fellow Kot
 2. Depending on how much value you provide, you can make a significant percentage of all profits.
 3. The earlier you start, the better: The project idea is truly unique, and there is no doubt that this will get big in the upcoming months and years. The earlier you join us, the better.
 
-If you are interested in becoming a team member, click <a target="_blank" href="https://github.com/Automa-Automations/join-our-team">here</a>.  
+If you are interested in becoming a team member, click [here](join_our_team.md).  
