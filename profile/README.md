@@ -14,4 +14,4 @@ We are open for any collaborations. Specifically, we are looking for a fellow Ko
 2. Depending on how much value you provide, you can make a big percentage of all profits.
 3. The earlier you start the beter: The project idea is truly unique, and there is no doubt that this will get big in the upcoming months and years. The earlier you join us, the better.
 
-If you are interested in becoming a contributor, <a href="https://github.com/Automa-Automations/automa-mobile-app">Click here</a>.  
+If you are interested in becoming a contributor, <a href="https://github.com/Automa-Automations/Contributions">Click here</a>.  
