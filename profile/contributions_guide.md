@@ -12,7 +12,7 @@ If you're considering integrating a significant feature that will take some time
 
 ### 1.1. Identify the Problem
 
-Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](link-to-template). Provide as accurate and as much detail as possible.
+Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](issues-template). Provide as accurate and as much detail as possible.
 
 ### 1.2. Fork and Fix Problem
 
@@ -20,7 +20,7 @@ Fork the repository and fix the problem. Follow industry-level code practices, f
 
 ### 1.3. Pull Request
 
-Follow the [Pull Request Template](link-to-template), replacing the placeholders. Provide as much proof as possible, and don't leave sections open.
+Follow the [Pull Request Template](pull_request_template.md), replacing the placeholders. Provide as much proof as possible, and don't leave sections open.
 
 ### 1.4. Feedback
 
