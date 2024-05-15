@@ -1,36 +1,35 @@
-# Join Our Team!
+# Contributions Guide:
 
-![Banner Base](https://github.com/Automa-Automations/Contributions/assets/141557971/04d51360-aeb1-46ef-a532-bdbfd8e3bbe5)
+![Banner Base](https://github.com/Automa-Automations/.github/assets/141557971/ade49a65-bd47-474c-861f-3d1651713aeb)
 
-Are you looking to become a contributor for Automa Automations? Read this.
+Read this guide and follow it whenever you think about contributing.
 
-## 1. What is Automa Automations?
+## 1. How to Contribute:
 
-Automa Automations is software where our primary goal is to automate content creation and scheduling, leveraging AI. We aim to save content creators time, money, and headaches.
+Whenever you see something you want to improve, notice a spelling mistake, or find anything wrong with the code, it would be appreciated if you create a PR based on the suggested rules outlined below.
 
-## 2. What is our long-term vision?
+If you are considering integrating a big feature that will take some time to complete, notify us first by getting in contact with us. Contact details are provided below.
 
-Our long-term vision is to support all social media platforms. We aim to automate any type of content you can think of, whether that is shorts, long videos, blogs, tweets, and much more.
+### 1.1. Identify the Problem:
 
-## 3. Why are we looking for developers to join our team?
+Create an issue for the associated repository, outlining the problem. Follow our <a href="" target="_blank">Issues Template</a>. Provide as much detail as possible.
 
-We are primarily looking for a Designer and a Kotlin Developer. Nonetheless, any type of development is welcome, from web development, back-end development, and iOS app development. Although we aren't offering money yet, these are the benefits of becoming a part of our team:
-1. If you are quite new, you get actual real-world experience by collaborating with us. You can put this on your resume, LinkedIn, or portfolio. This will significantly increase the chance of you getting hired later on compared to someone with no experience.
-2. By collaborating early, there is no doubt that you will reap the results for the value you provide. As soon as Automa Automations starts bringing in profits, you will be rewarded exponentially compared to those who join us later on.
-3. Learn how to work in a team. We are currently two developers (my brother and I). You will follow industry-level practices, leveling up your coding and collaboration skills.
-4. There is not a lot of competition: Since we aren't a big tech corporation yet, it is really easy to become one of the top contributors.
-5. It is more impressive to be one of the top contributors for a smaller software than to be one of the top 200 contributors for freeCodeCamp's repository. You get more for what you put in.
+### 1.2. Fork and Fix the Problem:
 
-## Join our team!
+Fork the repository and fix the problem. Follow industry-level coding practices, format the code well, and add comments and meaningful logs where they might be helpful. Maintain a consistent commit convention. We recommend using <a href="https://commitizen-tools.github.io/commitizen/" target="_blank">commitizen</a> to standardize all the commits throughout the codebase.
 
-If you are really interested in becoming a member of our team, welcome! There are a few different approaches you can take to officially call yourself a part of the Automa Automations team. Choose your route:
-1. Make a pull request to our already existing repos, improving something. We can start up a conversation there.
-2. Contact me or my brother (links provided at the end).
+### 1.3. Pull Request:
 
-## Pull Request Requirements:
+Follow the <a href="" target="_blank">Pull Request Template</a>, replacing the placeholders. Provide as much proof as possible; don't leave sections open.
 
-We have a detailed guide for making pull requests. Check it out [here](contributions_guide.md).
+### 1.4. Feedback:
+
+If your code quality is up to standard and you followed the practices outlined above, we will merge your PR. If not, don't feel discouraged. Making small mistakes is a part of the process. If needed, we will give feedback on what you can fix. We aren't too strict, don't worry.
+
+## Conclusion:
+
+Now that you know how to start contributing, what are you waiting for? If you are interested in joining the team at Automa Automations, [click here](join_our_team.md).
 
 ## Contact:
 
-Get in contact with <a href="" target="_blank">me</a> or my <a href="" target="_blank">brother</a> if you are interested in becoming an active member of our team.
+Contact <a href="" target="_blank">William</a> or <a href="" target="_blank">AdonisCodes</a>.
