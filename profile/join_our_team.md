@@ -29,7 +29,7 @@ If you are really interested in becoming a member of our team, welcome! There ar
 
 ## Pull Request Requirements:
 
-We have a detailed guide for making pull requests. Check it out <a target="_blank" href="">here</a>.
+We have a detailed guide for making pull requests. Check it out [here](contributions_guide.md).
 
 ## Contact:
 
