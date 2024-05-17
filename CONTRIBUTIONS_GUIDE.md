@@ -12,7 +12,7 @@ If you're considering integrating a significant feature that will take some time
 
 ### 1.1. Identify the Problem
 
-Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](issues-template.md). Provide as accurate and as much detail as possible.
+Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](./ISSUE_TEMPLATE.md). Provide as accurate and as much detail as possible.
 
 ### 1.2. Fork and Fix Problem
 
@@ -20,7 +20,7 @@ Fork the repository and fix the problem. Follow industry-level code practices, f
 
 ### 1.3. Pull Request
 
-Follow the [Pull Request Template](pull_request_template.md), replacing the placeholders. Provide as much proof as possible, and don't leave sections open.
+Follow the [Pull Request Template](./PULL_REQUEST_TEMPLATE.md), replacing the placeholders. Provide as much proof as possible, and don't leave sections open.
 
 ### 1.4. Feedback
 
@@ -28,7 +28,7 @@ If your code quality is up to standard and you followed great practices outlined
 
 ## Conclusion
 
-Now that you know how to start contributing, what are you waiting for? If you are interested in joining the team at Automa Automations, [click here](join_our_team.md).
+Now that you know how to start contributing, what are you waiting for? If you are interested in joining the team at Automa Automations, [click here](./JOIN_OUR_TEAM.md).
 
 ## Contact
 
