@@ -16,4 +16,5 @@ We are open to any collaborations. Specifically, we are looking for a fellow Kot
 
 [Join Our Team](join_our_team.md).  
 [Contributions Guide](contributions_guide.md)
+[Pull Request Template](pull_request_template.md)
 [Issues Template](issues_template.md)

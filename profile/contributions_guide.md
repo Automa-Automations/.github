@@ -12,7 +12,7 @@ If you're considering integrating a significant feature that will take some time
 
 ### 1.1. Identify the Problem
 
-Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](issues-template). Provide as accurate and as much detail as possible.
+Create an issue for the associated repository, outlining the problem. Follow our [Issues Template](issues-template.md). Provide as accurate and as much detail as possible.
 
 ### 1.2. Fork and Fix Problem
 
