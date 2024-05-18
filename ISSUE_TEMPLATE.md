@@ -6,7 +6,8 @@ The reason it is worth fixing this problem, is because:
 **numbered list of why this will enhance either user experience, or development experience.** 
 
 ## Solution:
-To solve this specific problem, here are actionable steps for making a pull request to solve this problem:
+**remove this section entirely if you unsure of how this issue will be fixed**
+To solve this specific problem, here are actionable steps for one of the contributors of Automa Automations when making a pull request:
 - [ ] task 1
 - [ ] task 1
 - [ ] task 1

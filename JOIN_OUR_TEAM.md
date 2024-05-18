@@ -27,9 +27,9 @@ If you are really interested in becoming a member of our team, welcome! There ar
 1. Make a pull request to our already existing repos, improving something. We can start up a conversation there.
 2. Contact me or my brother (links provided at the end).
 
-## Pull Request Requirements:
+## Contributions:
 
-We have a detailed guide for making pull requests. Check it out <a target="_blank" href="">here</a>.
+If you want to create a pull request, follow our [Contributions Guide](./CONTRIBUTIONS_GUIDE.md).
 
 ## Contact:
 
