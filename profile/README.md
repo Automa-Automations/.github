@@ -1,11 +1,11 @@
 # Automa - Extremely Simple Automation
 
-Automa, Operating under the AdonisCodes LTD registered with Company Houses in the UK.
-CEO of the company: Simon Ferns https://github.com/adoniscodes/
-Company Email: business@simonferns.com
-Company Phone: +27 79 193 1251
-Owner Image: ![image](https://github.com/Automa-Automations/.github/assets/122154257/25a11d43-aa6d-45d3-bfef-f2ebbeeaf548)
-Registered Address: 85 Great Portland Street, London, W1W 7LT, United Kingdom
+Automa, Operating under the AdonisCodes LTD registered with Company Houses in the UK. </br>
+CEO of the company: Simon Ferns https://github.com/adoniscodes/ </br>
+Company Email: business@simonferns.com </br>
+Company Phone: +27 79 193 1251 </br>
+Owner Image: ![image](https://github.com/Automa-Automations/.github/assets/122154257/25a11d43-aa6d-45d3-bfef-f2ebbeeaf548) </br>
+Registered Address: 85 Great Portland Street, London, W1W 7LT, United Kingdom </br>
 
 
 
