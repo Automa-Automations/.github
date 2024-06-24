@@ -1,5 +1,14 @@
 # Automa - Extremely Simple Automation
 
+Automa, Operating under the AdonisCodes LTD registered with Company Houses in the UK.
+CEO of the company: Simon Ferns https://github.com/adoniscodes/
+Company Email: business@simonferns.com
+Company Phone: +27 79 193 1251
+Owner Image: ![image](https://github.com/Automa-Automations/.github/assets/122154257/25a11d43-aa6d-45d3-bfef-f2ebbeeaf548)
+Registered Address: 85 Great Portland Street, London, W1W 7LT, United Kingdom
+
+
+
 ![Banner Base](https://github.com/Automa-Automations/.github/assets/122154257/b1933428-b151-4117-8549-8f357af3bf72)
 
 🤖 Automa is a project that focuses on making AI and AI automation available to the general public at a low cost of $10 for the base hosted plan, or $0 for self-hosting all of our infrastructure.
