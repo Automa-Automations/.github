@@ -15,10 +15,3 @@ We are open to any collaborations. Specifically, we are looking for a fellow Kot
 3. The earlier you start, the better: The project idea is truly unique, and there is no doubt that this will get big in the upcoming months and years. The earlier you join us, the better.
 
 [Join Our Team](../JOIN_OUR_TEAM.md)  [Contributions Guide](../CONTRIBUTIONS_GUIDE.md)  [Pull Request Template](../PULL_REQUEST_TEMPLATE.md)  [Issues Template](../ISSUE_TEMPLATE.md)
-
-
-Automa, Operating under the AdonisCodes LTD registered with Company Houses in the UK. </br>
-CEO of the company: Simon Ferns https://github.com/adoniscodes/ </br>
-Company Email: business@simonferns.com </br>
-Company Phone: +27 79 193 1251 </br>
-Registered Address: 85 Great Portland Street, London, W1W 7LT, United Kingdom </br>
